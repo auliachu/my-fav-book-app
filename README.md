@@ -9,11 +9,11 @@ Menampilkan foto diri, nama, dan email yang terdaftar di Dicoding. Dalam mengaks
 
 ## Cara Menjalankan Aplikasi
 
-Untuk menjalankan aplikasi YourPeerBuddy, ikuti langkah-langkah di bawah ini:
+Untuk menjalankan aplikasi My Favo Books, ikuti langkah-langkah di bawah ini:
 
 1. Kloning repositori:
     ```bash
-    git clone https://github.com/Haikalimanf/PeerBuddy.git
+    git clone https://github.com/auliachu/my-fav-book-app.git
     ```
 
 2. Buka proyek di Android Studio.
