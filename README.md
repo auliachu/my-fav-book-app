@@ -23,3 +23,6 @@ Untuk menjalankan aplikasi My Favo Books, ikuti langkah-langkah di bawah ini:
 4. Sambungkan perangkat Android atau gunakan emulator.
 
 5. Jalankan aplikasinya!
+
+## Preview Aplikasi
+![Image](https://github.com/user-attachments/assets/1a87f700-e405-4773-982a-8f2975262ae4)
